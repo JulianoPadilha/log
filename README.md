@@ -43,3 +43,6 @@ Log de textos, artigos, matérias, vídeos, etc.. consumidos no dia a dia.
 [#livecode - desenvolvimento do site do Training Center 📹](https://www.youtube.com/watch?v=k5Zz-m1i8f0)
 
 [REST não é simplesmente retornar JSON: indo além com APIs REST](https://www.treinaweb.com.br/blog/rest-nao-e-simplesmente-retornar-json-indo-alem-com-apis-rest/?utm_source=dlvr.it&utm_medium=facebook)
+
+## 29/05/2017
+[Você sabe o que é Arquitetura Orientada a Serviços (SOA)?](https://www.treinaweb.com.br/blog/voce-sabe-o-que-e-arquitetura-orientada-a-servicos-soa/?utm_source=dlvr.it&utm_medium=facebook)
