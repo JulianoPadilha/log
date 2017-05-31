@@ -46,3 +46,6 @@ Log de textos, artigos, matérias, vídeos, etc.. consumidos no dia a dia.
 
 ## 29/05/2017
 [Você sabe o que é Arquitetura Orientada a Serviços (SOA)?](https://www.treinaweb.com.br/blog/voce-sabe-o-que-e-arquitetura-orientada-a-servicos-soa/?utm_source=dlvr.it&utm_medium=facebook)
+
+## 30/05/2017
+JavaScript: The Definitive Guide. pág 182 - pág 185
