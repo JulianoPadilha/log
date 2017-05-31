@@ -49,3 +49,7 @@ Log de textos, artigos, matérias, vídeos, etc.. consumidos no dia a dia.
 
 ## 30/05/2017
 JavaScript: The Definitive Guide. pág 182 - pág 185
+
+## 31/05/2017
+[Como estudar em casa e melhorar o seu desenvolvimento online](https://www.treinaweb.com.br/blog/como-estudar-em-casa-e-melhorar-o-seu-desenvolvimento-online/)
+
