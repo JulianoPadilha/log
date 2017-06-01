@@ -57,3 +57,5 @@ JavaScript: The Definitive Guide. pág 182 - pág 185
 
 [Quincy Larson](https://noteworthy.medium.com/quincy-larson-958f4903f9b7?source=linkShare-255bf52c5993-1496284330)
 
+## 01/06/2017
+[Firebase: descubra no que esta plataforma pode te ajudar](https://www.treinaweb.com.br/blog/firebase-descubra-no-que-esta-plataforma-pode-te-ajudar/)
