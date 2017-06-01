@@ -54,3 +54,6 @@ JavaScript: The Definitive Guide. pág 182 - pág 185
 [Como estudar em casa e melhorar o seu desenvolvimento online](https://www.treinaweb.com.br/blog/como-estudar-em-casa-e-melhorar-o-seu-desenvolvimento-online/)
 
 [Como é trabalhar como Front-End Developer, por Keit Oliveira](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-front-end-developer-por-keit-oliveira-3b681483a5e1)
+
+[Quincy Larson](https://noteworthy.medium.com/quincy-larson-958f4903f9b7?source=linkShare-255bf52c5993-1496284330)
+
