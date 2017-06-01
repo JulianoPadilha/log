@@ -53,3 +53,5 @@ JavaScript: The Definitive Guide. pág 182 - pág 185
 ## 31/05/2017
 [Como estudar em casa e melhorar o seu desenvolvimento online](https://www.treinaweb.com.br/blog/como-estudar-em-casa-e-melhorar-o-seu-desenvolvimento-online/)
 
+[Quincy Larson](https://noteworthy.medium.com/quincy-larson-958f4903f9b7?source=linkShare-255bf52c5993-1496284330)
+
