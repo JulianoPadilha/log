@@ -59,3 +59,8 @@ JavaScript: The Definitive Guide. pág 182 - pág 185
 
 ## 01/06/2017
 [Firebase: descubra no que esta plataforma pode te ajudar](https://www.treinaweb.com.br/blog/firebase-descubra-no-que-esta-plataforma-pode-te-ajudar/)
+
+[Como ganhar mais na área de TI?](https://medium.com/@dinhani/como-ganhar-mais-na-%C3%A1rea-de-ti-29681ca161e1)
+
+## 02/06/2017
+[É hora de começar um novo projeto. E agora? Vou de PHP ou Node.js?](https://medium.com/somoss2it/%C3%A9-hora-de-come%C3%A7ar-um-novo-projeto-e-agora-vou-de-php-ou-node-js-b375d7cef2f6)
