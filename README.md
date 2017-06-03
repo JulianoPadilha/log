@@ -68,3 +68,5 @@ JavaScript: The Definitive Guide. pág 182 - pág 185
 [O Segredo - Dani Alves](https://www.theplayerstribune.com/dani-alves-juventus-o-segredo/)
 
 [“I’m a tech guy. There are things that just don’t change.”](https://medium.com/people-behind-the-keyboard/im-a-tech-guy-there-are-things-that-just-don-t-change-bd5402d70651)
+
+[WTF is technical debt?](https://hackernoon.com/wtf-is-technical-debt-b9e9d5f89d9)
