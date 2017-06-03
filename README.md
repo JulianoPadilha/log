@@ -1,4 +1,4 @@
-# log
+# log 😎
 Log de textos, artigos, matérias, vídeos, etc.. consumidos no dia a dia. 
 
 ## 27/05/2017
