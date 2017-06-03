@@ -64,3 +64,7 @@ JavaScript: The Definitive Guide. pág 182 - pág 185
 
 ## 02/06/2017
 [É hora de começar um novo projeto. E agora? Vou de PHP ou Node.js?](https://medium.com/somoss2it/%C3%A9-hora-de-come%C3%A7ar-um-novo-projeto-e-agora-vou-de-php-ou-node-js-b375d7cef2f6)
+
+[O Segredo - Dani Alves](https://www.theplayerstribune.com/dani-alves-juventus-o-segredo/)
+
+[“I’m a tech guy. There are things that just don’t change.”](https://medium.com/people-behind-the-keyboard/im-a-tech-guy-there-are-things-that-just-don-t-change-bd5402d70651)
