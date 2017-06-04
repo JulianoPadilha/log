@@ -70,3 +70,11 @@ JavaScript: The Definitive Guide. pág 182 - pág 185
 [“I’m a tech guy. There are things that just don’t change.”](https://medium.com/people-behind-the-keyboard/im-a-tech-guy-there-are-things-that-just-don-t-change-bd5402d70651)
 
 [WTF is technical debt?](https://hackernoon.com/wtf-is-technical-debt-b9e9d5f89d9)
+
+## 03/06/2017
+Dia de descansar e ir no jogo do Corinthias. :D
+
+## 04/06/2017
+[Pare de chutar e aprenda como funciona o float: left e float:right e sua trupe](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-float-left-e-float-right-e-sua-trupe-a4f4161114c7)
+
+- [Codepen](https://codepen.io/julianopadilha/pen/rwaBvb?editors=1100)	
