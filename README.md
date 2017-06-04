@@ -78,3 +78,10 @@ Dia de descansar e ir no jogo do Corinthias. :D
 [Pare de chutar e aprenda como funciona o float: left e float:right e sua trupe](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-float-left-e-float-right-e-sua-trupe-a4f4161114c7)
 
 - [Codepen](https://codepen.io/julianopadilha/pen/rwaBvb?editors=1100)	
+
+[Pare de chutar e aprenda como funciona o display: inline-block](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-block-4e6cba2f19d4)
+
+- [Codepen](https://codepen.io/julianopadilha/pen/xgMQep)
+
+[Theming With WP REST API - Part 01 - Setup 📹](https://www.youtube.com/watch?v=ZT-XOBVGAIM&t=881s)
+
