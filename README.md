@@ -93,3 +93,6 @@ Dia de descansar e ir no jogo do Corinthias. :D
 
 [Theming With WP REST API - Part 01 - Setup 📹](https://www.youtube.com/watch?v=ZT-XOBVGAIM&t=881s)
 
+## 05/06/2017
+[Find Your Happiness](https://medium.com/@garyvee/find-your-happiness-812e9ab08343)
+
