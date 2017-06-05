@@ -83,5 +83,13 @@ Dia de descansar e ir no jogo do Corinthias. :D
 
 - [Codepen](https://codepen.io/julianopadilha/pen/xgMQep)
 
+[Pare de chutar e aprenda como funciona o display: inline](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-inline-4ccb7b77371d)
+
+- [Codepen](https://codepen.io/julianopadilha/pen/MoYYrv)
+
+[Pare de chutar e aprenda como funciona o display: block](https://medium.com/collabcode/pare-de-chutar-e-aprenda-como-funciona-o-display-block-98480c987950)
+
+- [Codepen](https://codepen.io/julianopadilha/pen/KqwwRW)
+
 [Theming With WP REST API - Part 01 - Setup 📹](https://www.youtube.com/watch?v=ZT-XOBVGAIM&t=881s)
 
