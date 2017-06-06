@@ -105,4 +105,4 @@ Dia de descansar e ir no jogo do Corinthias. :D
 [Vue.js 2.0 In 60 Minutes 📹 - 33 minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
 
 ## 06/06/2017
-[If you’re reading this, you probably don’t do hard work](https://m.signalvnoise.com/if-youre-reading-this-you-probably-don-t-do-hard-work-41585c1c16a7If you’re reading this, you probably don’t do hard work)
+[If you’re reading this, you probably don’t do hard work](https://m.signalvnoise.com/if-youre-reading-this-you-probably-don-t-do-hard-work-41585c1c16a7)
