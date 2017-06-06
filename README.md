@@ -103,3 +103,6 @@ Dia de descansar e ir no jogo do Corinthias. :D
 [Atomic Design no contexto de um time ágil](https://imasters.com.br/design-ux/atomic-design-no-contexto-de-um-time-agil/?trace=1519021197&source=home)
 
 [Vue.js 2.0 In 60 Minutes 📹 - 33 minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
+
+## 06/06/2017
+[If you’re reading this, you probably don’t do hard work](https://m.signalvnoise.com/if-youre-reading-this-you-probably-don-t-do-hard-work-41585c1c16a7If you’re reading this, you probably don’t do hard work)
