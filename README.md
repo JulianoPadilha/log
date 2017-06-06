@@ -96,3 +96,10 @@ Dia de descansar e ir no jogo do Corinthias. :D
 ## 05/06/2017
 [Find Your Happiness](https://medium.com/@garyvee/find-your-happiness-812e9ab08343)
 
+[Escopo aberto é possível: uma conversa sobre as variáveis de projeto de desenvolvimento de software](https://imasters.com.br/desenvolvimento/gerencia-de-projetos/escopo-aberto-e-possivel-uma-conversa-sobre-as-variaveis-de-projeto-de-desenvolvimento-de-software/?trace=1519021197&source=home)
+
+[Princípios por trás do manifesto ágil](http://www.manifestoagil.com.br/principios.html)
+
+[Atomic Design no contexto de um time ágil](https://imasters.com.br/design-ux/atomic-design-no-contexto-de-um-time-agil/?trace=1519021197&source=home)
+
+[Vue.js 2.0 In 60 Minutes 📹 - 33 minutes](https://www.youtube.com/watch?v=z6hQqgvGI4Y)
