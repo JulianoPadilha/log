@@ -106,3 +106,9 @@ Dia de descansar e ir no jogo do Corinthias. :D
 
 ## 06/06/2017
 [If you’re reading this, you probably don’t do hard work](https://m.signalvnoise.com/if-youre-reading-this-you-probably-don-t-do-hard-work-41585c1c16a7)
+
+## 07/06/2017
+Não li nada de diferente. :/
+## 08/06/2017
+Não li nada de diferente. :/
+## 09/06/2017
