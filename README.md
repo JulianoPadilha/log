@@ -108,7 +108,13 @@ Dia de descansar e ir no jogo do Corinthias. :D
 [If you’re reading this, you probably don’t do hard work](https://m.signalvnoise.com/if-youre-reading-this-you-probably-don-t-do-hard-work-41585c1c16a7)
 
 ## 07/06/2017
-Não li nada de diferente. :/
+Não consumi nada de diferente. :/
+
 ## 08/06/2017
-Não li nada de diferente. :/
+Não consumi nada de diferente. :/
+
 ## 09/06/2017
+Não consumi nada de diferente. :/
+
+## 10/06/2017
+[Derek Stavis - "Empacotando tudo com Webpack" - Vale do Carbono Conf 2017 📹](https://www.youtube.com/watch?v=709nmorjo9Y)
