@@ -120,4 +120,7 @@ Não consumi nada de diferente. :/
 [Derek Stavis - "Empacotando tudo com Webpack" - Vale do Carbono Conf 2017 📹](https://www.youtube.com/watch?v=709nmorjo9Y)
 
 ## 11/06/2017
-[#004 - Mobile First está errado?](https://www.youtube.com/watch?v=Rrys1PVR5tQ)
+[#004 - Mobile First está errado? 📹](https://www.youtube.com/watch?v=Rrys1PVR5tQ)
+
+## 12/06/2017
+[Building a Better Web](https://hackernoon.com/building-a-better-web-3cf1a36a1f48)
