@@ -129,3 +129,5 @@ Não consumi nada de diferente. :/
 [People Don’t Buy Products, They Buy Better Versions of Themselves](https://medium.com/startup-grind/people-dont-buy-products-they-buy-better-versions-of-themselves-2ce85fdb5ff1)
 
 [Como é trabalhar como Desenvolvedor Front-End Remoto, por Willian Justen](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-desenvolvedor-front-end-remoto-por-willian-justen-e7cdf7fe2e64)
+
+[“O que fazer” e “o que não fazer” ao projetar para Acessibilidade](https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b)
