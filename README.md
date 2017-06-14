@@ -133,3 +133,5 @@ Não consumi nada de diferente. :/
 [“O que fazer” e “o que não fazer” ao projetar para Acessibilidade](https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b)
 
 [Cuidado com ofertas de emprego que focam no que não é importante](http://gabsferreira.com/cuidado-com-ofertas-de-emprego-que-focam-no-que-nao-e-importante/)
+
+["Tudo que você aprendeu não serve mais"](http://epocanegocios.globo.com/Carreira/noticia/2017/06/tudo-que-voce-aprendeu-nao-serve-mais.html)
