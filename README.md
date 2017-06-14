@@ -124,3 +124,6 @@ Não consumi nada de diferente. :/
 
 ## 12/06/2017
 [Building a Better Web](https://hackernoon.com/building-a-better-web-3cf1a36a1f48)
+
+## 13/06/2017
+[Como é trabalhar como Desenvolvedor Front-End Remoto, por Willian Justen](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-desenvolvedor-front-end-remoto-por-willian-justen-e7cdf7fe2e64)
