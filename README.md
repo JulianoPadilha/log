@@ -135,3 +135,5 @@ Não consumi nada de diferente. :/
 [Cuidado com ofertas de emprego que focam no que não é importante](http://gabsferreira.com/cuidado-com-ofertas-de-emprego-que-focam-no-que-nao-e-importante/)
 
 ["Tudo que você aprendeu não serve mais"](http://epocanegocios.globo.com/Carreira/noticia/2017/06/tudo-que-voce-aprendeu-nao-serve-mais.html)
+
+[As "states" e "properties" do atributo role no WAI-ARIA](http://engenharia.elo7.com.br/wai-aria-states-properties/)
