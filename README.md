@@ -126,4 +126,6 @@ Não consumi nada de diferente. :/
 [Building a Better Web](https://hackernoon.com/building-a-better-web-3cf1a36a1f48)
 
 ## 13/06/2017
+[People Don’t Buy Products, They Buy Better Versions of Themselves](https://medium.com/startup-grind/people-dont-buy-products-they-buy-better-versions-of-themselves-2ce85fdb5ff1)
+
 [Como é trabalhar como Desenvolvedor Front-End Remoto, por Willian Justen](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-desenvolvedor-front-end-remoto-por-willian-justen-e7cdf7fe2e64)
