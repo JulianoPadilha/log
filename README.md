@@ -131,3 +131,5 @@ Não consumi nada de diferente. :/
 [Como é trabalhar como Desenvolvedor Front-End Remoto, por Willian Justen](https://medium.com/trainingcenter/como-%C3%A9-trabalhar-como-desenvolvedor-front-end-remoto-por-willian-justen-e7cdf7fe2e64)
 
 [“O que fazer” e “o que não fazer” ao projetar para Acessibilidade](https://uxdesign.blog.br/o-que-fazer-e-o-que-n%C3%A3o-fazer-ao-projetar-para-acessibilidade-7da75261fa7b)
+
+[Cuidado com ofertas de emprego que focam no que não é importante](http://gabsferreira.com/cuidado-com-ofertas-de-emprego-que-focam-no-que-nao-e-importante/)
