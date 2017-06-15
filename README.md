@@ -142,3 +142,6 @@ Não consumi nada de diferente. :/
 JavaScript: The Definitive Guide. pág 185 - pág 189
 
 ES6 Javascript: The Complete Developer's Guide 📹
+
+## 15/06/2017
+[Between the Wires: An interview with Chris Coyier of CodePen & CSS-Tricks fame](https://medium.freecodecamp.com/between-the-wires-an-interview-with-chris-coyier-of-codepen-css-tricks-fame-f010517ad78e)
