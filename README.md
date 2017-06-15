@@ -140,3 +140,5 @@ Não consumi nada de diferente. :/
 
 ## 14/06/2017
 JavaScript: The Definitive Guide. pág 185 - pág 189
+
+ES6 Javascript: The Complete Developer's Guide 📹
