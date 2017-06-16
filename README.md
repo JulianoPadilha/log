@@ -147,3 +147,5 @@ ES6 Javascript: The Complete Developer's Guide 📹
 [Between the Wires: An interview with Chris Coyier of CodePen & CSS-Tricks fame](https://medium.freecodecamp.com/between-the-wires-an-interview-with-chris-coyier-of-codepen-css-tricks-fame-f010517ad78e)
 
 ES6 Javascript: The Complete Developer's Guide 📹
+
+Aprendendo SVG do início ao avançado 📹
