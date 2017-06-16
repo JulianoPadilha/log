@@ -149,3 +149,6 @@ ES6 Javascript: The Complete Developer's Guide 📹
 ES6 Javascript: The Complete Developer's Guide 📹
 
 Aprendendo SVG do início ao avançado 📹
+
+## 16/06/2017
+[JavaScript: What the heck is a Callback?](https://hackernoon.com/javascript-what-the-heck-is-a-callback-aba4da2deced)
