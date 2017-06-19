@@ -158,3 +158,11 @@ Aprendendo SVG do início ao avançado 📹
 ES6 Javascript: The Complete Developer's Guide 📹
 
 Aprendendo SVG do início ao avançado 📹
+
+## 17/06/2017
+Macbook deu pau e tive que formatar. :(
+
+## 18/06/2017
+Formatei o Macbook. \o/
+
+Aprendendo SVG do início ao avançado 📹
