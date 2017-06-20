@@ -173,3 +173,8 @@ Aprendendo SVG do início ao avançado 📹
 ES6 Javascript: The Complete Developer's Guide 📹
 
 JavaScript: The Definitive Guide. pág 189 - pág 192
+
+## 20;06/2017
+[A gentileza entre amigos](https://papodehomem.com.br/a-gentileza-entre-amigos/)
+
+[O inicio, o fim e o meio do Desenvolvimento Front-End](https://medium.com/@lfeh/o-inicio-o-fim-e-o-meio-do-desenvolvimento-front-end-dfc5a123b90f)
