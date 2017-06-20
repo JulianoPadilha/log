@@ -171,3 +171,5 @@ Aprendendo SVG do início ao avançado 📹
 [Seu salário como desenvolvedor(a) de software [números]](https://medium.com/@hannelita/seu-sal%C3%A1rio-como-desenvolvedor-a-de-software-n%C3%BAmeros-ec8224015a07)
 
 ES6 Javascript: The Complete Developer's Guide 📹
+
+JavaScript: The Definitive Guide. pág 189 - pág 192
