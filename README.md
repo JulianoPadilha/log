@@ -178,3 +178,5 @@ JavaScript: The Definitive Guide. pág 189 - pág 192
 [A gentileza entre amigos](https://papodehomem.com.br/a-gentileza-entre-amigos/)
 
 [O inicio, o fim e o meio do Desenvolvimento Front-End](https://medium.com/@lfeh/o-inicio-o-fim-e-o-meio-do-desenvolvimento-front-end-dfc5a123b90f)
+
+[Neil Gaiman e a importância da leitura e de sonhar acordado](https://papodehomem.com.br/neil-gaiman-e-o-poder-da-leitura/)
