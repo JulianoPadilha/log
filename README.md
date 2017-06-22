@@ -180,3 +180,10 @@ JavaScript: The Definitive Guide. pág 189 - pág 192
 [O inicio, o fim e o meio do Desenvolvimento Front-End](https://medium.com/@lfeh/o-inicio-o-fim-e-o-meio-do-desenvolvimento-front-end-dfc5a123b90f)
 
 [Neil Gaiman e a importância da leitura e de sonhar acordado](https://papodehomem.com.br/neil-gaiman-e-o-poder-da-leitura/)
+
+## 21/06/2017
+[6 Maneiras que encontrei para me manter motivado como programador](https://medium.com/trainingcenter/6-maneiras-que-encontrei-para-me-manter-motivado-como-programador-8faf2caabfd0)
+
+[Front-end vs Back-end: não jogue com bola quadrada](https://www.linkedin.com/pulse/front-end-vs-back-end-n%C3%A3o-jogue-com-bola-quadrada-julio-cesar-silva)
+
+Meetup FrontendSP - SEO, CSS (Flexbox e Grid) e VueJS
