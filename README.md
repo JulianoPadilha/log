@@ -187,3 +187,6 @@ JavaScript: The Definitive Guide. pág 189 - pág 192
 [Front-end vs Back-end: não jogue com bola quadrada](https://www.linkedin.com/pulse/front-end-vs-back-end-n%C3%A3o-jogue-com-bola-quadrada-julio-cesar-silva)
 
 Meetup FrontendSP - SEO, CSS (Flexbox e Grid) e VueJS
+
+## 22/06/2017
+[How to grow Junior Developer](https://medium.com/@ulodev/how-to-grow-junior-developer-3a4b0dab057b)
