@@ -190,3 +190,7 @@ Meetup FrontendSP - SEO, CSS (Flexbox e Grid) e VueJS
 
 ## 22/06/2017
 [How to grow Junior Developer](https://medium.com/@ulodev/how-to-grow-junior-developer-3a4b0dab057b)
+
+ES6 Javascript: The Complete Developer's Guide 📹
+
+VueJS 2: The Complete Guide 📹
