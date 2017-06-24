@@ -194,3 +194,6 @@ Meetup FrontendSP - SEO, CSS (Flexbox e Grid) e VueJS
 ES6 Javascript: The Complete Developer's Guide 📹
 
 VueJS 2: The Complete Guide 📹
+
+## 23/06/2017
+[Os 22 anos do JavaScript, contados pelo seu criador, Brendan Eich](https://braziljs.org/blog/os-22-anos-javascript-contados-pelo-seu-criador-brendan-eich/?utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=2017-06-20_BR%20Web%20News%20%2320&utm_term=Newsletter&vero_id=1628028971&vero_conv=Z3_qSuIADu6XuicUr7MEY_3YZ4hKqNAHUkMiiYornuKub7EYP20pYXF2tjNIj8UPEfXMa3Ew9FN0UTv_NGeUaKr8pODONfI_)
