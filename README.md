@@ -197,3 +197,14 @@ VueJS 2: The Complete Guide 📹
 
 ## 23/06/2017
 [Os 22 anos do JavaScript, contados pelo seu criador, Brendan Eich](https://braziljs.org/blog/os-22-anos-javascript-contados-pelo-seu-criador-brendan-eich/?utm_source=vero&utm_medium=email&utm_content=control&utm_campaign=2017-06-20_BR%20Web%20News%20%2320&utm_term=Newsletter&vero_id=1628028971&vero_conv=Z3_qSuIADu6XuicUr7MEY_3YZ4hKqNAHUkMiiYornuKub7EYP20pYXF2tjNIj8UPEfXMa3Ew9FN0UTv_NGeUaKr8pODONfI_)
+
+## 24/06/2017
+
+Descansei; Saí com o Conor;
+
+## 25/06/2017
+
+Descansei; Formatei o Macbook (again :/)
+
+## 26/06/2017
+[Wordpress: What Makes Them The Best in Business](http://www.huffingtonpost.com/entry/593b5371e4b0b65670e56a79)
