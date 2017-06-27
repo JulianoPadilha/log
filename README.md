@@ -208,3 +208,6 @@ Descansei; Formatei o Macbook (again :/)
 
 ## 26/06/2017
 [Wordpress: What Makes Them The Best in Business](http://www.huffingtonpost.com/entry/593b5371e4b0b65670e56a79)
+
+JavaScript São Paulo #10 - ELO7 - #frontendweek | APIS formulários HTML5 | Design Patterns | WeDeploy
+
