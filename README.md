@@ -211,3 +211,12 @@ Descansei; Formatei o Macbook (again :/)
 
 JavaScript São Paulo #10 - ELO7 - #frontendweek | APIS formulários HTML5 | Design Patterns | WeDeploy
 
+## 27/06/2017
+
+MeetupCSS | Perfomance na Web - renderização e animações | Zeno Rocha
+
+## 28/06/2017
+[Why you should always use a Linter](https://medium.com/dailyjs/why-you-should-always-use-a-linter-and-or-pretty-formatter-bb5471115a76)
+
+[Why Vue JS could make React JS irrelevant in 2018](https://codeburst.io/why-vue-js-could-make-react-js-irrelevant-in-2018-44af881b81c4)
+
