@@ -220,3 +220,12 @@ MeetupCSS | Perfomance na Web - renderização e animações | Zeno Rocha
 
 [Why Vue JS could make React JS irrelevant in 2018](https://codeburst.io/why-vue-js-could-make-react-js-irrelevant-in-2018-44af881b81c4)
 
+[Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
+
+## 29/06/2017
+
+Curso de CSS Grid Layout - Afonso Pacifer
+
+## 30/06/2017
+
+Escrevendo o Styleguide da A2ad
