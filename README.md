@@ -233,3 +233,11 @@ Escrevendo o Styleguide da A2ad
 ## 01/07/2017
 
 Front in Sampa 2017 | Code in the Dark
+
+## 02/07/2017
+
+Descansando | Mudança de apartamento
+
+## 03/07/2017
+
+Tentando arrumar o Macbook | Styleguide da A2ad
