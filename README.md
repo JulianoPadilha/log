@@ -246,3 +246,5 @@ Tentando arrumar o Macbook | Styleguide da A2ad
 [A motivação desmotivacional no mundo do Desenvolvimento](https://medium.com/@lfeh/a-motiva%C3%A7%C3%A3o-desmotivacional-no-mundo-do-desenvolvimento-d0a9fcd47fd1)
 
 [Como concilio trabalho integral, família e faculdade com os estudos em Javascript?](https://medium.com/jsdozero/como-concilio-trabalho-integral-fam%C3%ADlia-e-faculdade-com-os-estudos-em-javascript-63443aa8d36d)
+
+Styleguide da A2ad
