@@ -247,4 +247,13 @@ Tentando arrumar o Macbook | Styleguide da A2ad
 
 [Como concilio trabalho integral, família e faculdade com os estudos em Javascript?](https://medium.com/jsdozero/como-concilio-trabalho-integral-fam%C3%ADlia-e-faculdade-com-os-estudos-em-javascript-63443aa8d36d)
 
+[VueJS init — Uma abordagem inicial sobre a biblioteca JavaScript VueJs](https://medium.com/trainingcenter/vuejs-init-uma-abordagem-inicial-sobre-a-biblioteca-javascript-vuejs-b2490771f05c)
+
+[Isomorphic Javascript, let’s make it easier.](https://hackernoon.com/isomorphic-javascript-it-just-has-to-work-b9da5b0c8035)
+
 Styleguide da A2ad
+
+## 05/07/2017
+[Front in Sampa 2017](https://medium.com/@vedovelli/front-in-sampa-2017-f4c6e2f49c17)
+
+[Observations about life and love - Stéphany Martins](https://medium.com/@stephanymartins/observations-about-life-and-love-2ca555658e4c)
