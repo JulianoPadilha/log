@@ -253,7 +253,11 @@ Tentando arrumar o Macbook | Styleguide da A2ad
 
 Styleguide da A2ad
 
+ES6 Javascript: The Complete Developer's Guide 📹
+
 ## 05/07/2017
 [Front in Sampa 2017](https://medium.com/@vedovelli/front-in-sampa-2017-f4c6e2f49c17)
 
 [Observations about life and love - Stéphany Martins](https://medium.com/@stephanymartins/observations-about-life-and-love-2ca555658e4c)
+
+ES6 Javascript: The Complete Developer's Guide 📹
