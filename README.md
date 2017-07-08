@@ -261,3 +261,15 @@ ES6 Javascript: The Complete Developer's Guide 📹
 [Observations about life and love - Stéphany Martins](https://medium.com/@stephanymartins/observations-about-life-and-love-2ca555658e4c)
 
 ES6 Javascript: The Complete Developer's Guide 📹
+
+## 06/07/2017
+[Algumas notas sobre estruturas de dados em Javascript (e algo mais…)](https://medium.com/trainingcenter/algumas-notas-sobre-estruturas-de-dados-em-javascript-e-algo-mais-5cda4709fc69)
+
+Web Semântica: A internet do futuro - Livro
+
+## 07/07/2017
+Saí com amigos do apartamento
+
+## 08/07/2017
+Web Semântica: A internet do futuro - Livro
+
