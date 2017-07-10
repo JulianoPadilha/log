@@ -278,3 +278,7 @@ Nada. xD
 
 ## 10/07/2017
 [Quando Vue.js não pode ajudar você](https://medium.com/@Emanuel_G/quando-vue-js-n%C3%A3o-pode-ajudar-voc%C3%AA-dcab4e6a800a)
+
+[Javascript Isomórfico](http://engenharia.elo7.com.br/isomorfismo/)
+
+[Javascript Isomórfico - parte 2](http://engenharia.elo7.com.br/isomorfismo-parte-2/)
