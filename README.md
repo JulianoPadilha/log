@@ -273,3 +273,8 @@ Saí com amigos do apartamento
 ## 08/07/2017
 Web Semântica: A internet do futuro - Livro
 
+## 09/07/2017
+Nada. xD
+
+## 10/07/2017
+[Quando Vue.js não pode ajudar você](https://medium.com/@Emanuel_G/quando-vue-js-n%C3%A3o-pode-ajudar-voc%C3%AA-dcab4e6a800a)
