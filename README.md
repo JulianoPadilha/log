@@ -284,3 +284,6 @@ Nada. xD
 [Javascript Isomórfico - parte 2](http://engenharia.elo7.com.br/isomorfismo-parte-2/)
 
 Styleguide da A2ad
+
+## 11/07/2017
+[A day without Javascript](https://sonniesedge.co.uk/blog/a-day-without-javascript)
