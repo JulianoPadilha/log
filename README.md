@@ -287,3 +287,5 @@ Styleguide da A2ad
 
 ## 11/07/2017
 [A day without Javascript](https://sonniesedge.co.uk/blog/a-day-without-javascript)
+
+Styleguide aka Guideline da A2ad
