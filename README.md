@@ -289,3 +289,11 @@ Styleguide da A2ad
 [A day without Javascript](https://sonniesedge.co.uk/blog/a-day-without-javascript)
 
 Styleguide aka Guideline da A2ad
+
+## 12/07/2017
+Guideline da A2ad
+
+[Olá Devs, precisamos falar sobre estresse e ansiedade](https://medium.com/@bernarddeluna/ol%C3%A1-devs-precisamos-falar-sobre-estresse-e-ansiedade-bde1b04f897e)
+
+## 13/07/2017
+[An Introduction to Progressive Web Apps](https://medium.com/front-end-hacking/an-introduction-to-progressive-web-apps-c045ce05ee0f)
