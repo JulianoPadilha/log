@@ -297,3 +297,7 @@ Guideline da A2ad
 
 ## 13/07/2017
 [An Introduction to Progressive Web Apps](https://medium.com/front-end-hacking/an-introduction-to-progressive-web-apps-c045ce05ee0f)
+
+[CSS Isn’t Black Magic](https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2)
+
+Site do guideline da A2ad
