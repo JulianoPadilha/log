@@ -301,3 +301,9 @@ Guideline da A2ad
 [CSS Isn’t Black Magic](https://medium.freecodecamp.org/its-not-dark-magic-pulling-back-the-curtains-from-your-stylesheets-c8d677fa21b2)
 
 Site do guideline da A2ad
+
+## 14/07/2017
+Site do guideline da A2ad
+
+## 15/07/2017
+Site do guideline da A2ad
