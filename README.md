@@ -307,3 +307,22 @@ Site do guideline da A2ad
 
 ## 15/07/2017
 Site do guideline da A2ad
+
+## 16/07/2017
+[Here’s Why I Love Monday’s And Hate Hump Days](https://medium.com/the-mission/heres-why-i-love-monday-s-and-hate-hump-days-99e68690c45)
+
+[5 Basic Skills For Frontend Development [Infographic]](https://hackernoon.com/5-basic-skills-for-frontend-development-infographic-8c9568dab4d2)
+
+[Reducing CSS bundle size 70% by cutting the class names and using scope isolation](https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b)
+
+[Three Ways to Generate Ideas for Programming Side Projects](https://hackernoon.com/three-ways-to-generate-ideas-for-programming-side-projects-34e640607ec3)
+
+[I Love the JavaScript shorthand of If-else statement 😃](https://medium.com/@rsschouwenaar/i-love-the-javascript-shorthand-of-if-else-statement-e55ea8e8c77f)
+
+[Road to Mastery: A Junior Developer’s Story](https://hackernoon.com/road-to-mastery-a-junior-developers-story-db1b65d0954d)
+
+## 17/07/2017
+Happy Hour da firma. 
+
+## 18/07/2017
+[Criando componentes usando só ES6](https://willianjusten.com.br/criando-componentes-usando-so-es6/)
