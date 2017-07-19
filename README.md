@@ -326,3 +326,9 @@ Happy Hour da firma.
 
 ## 18/07/2017
 [Criando componentes usando só ES6](https://willianjusten.com.br/criando-componentes-usando-so-es6/)
+
+[Webhook vs API: What’s the Difference?](https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652)
+
+ES6 Javascript: The Complete Developer's Guide 📹
+
+Curso de ES6 - Willian Justen 📹
