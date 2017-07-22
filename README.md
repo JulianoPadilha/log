@@ -343,3 +343,5 @@ Ajustes site do guideline da A2ad
 
 ## 21/07/2017
 [Dev: Framework, eu não sei se escolho você](https://medium.com/tableless/dev-framework-eu-n%C3%A3o-sei-se-escolho-voc%C3%AA-e442b1beafb)
+
+Aula de Objeto e Funções do JavaScript com o Rodrigo Branas 📹
