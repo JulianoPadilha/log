@@ -332,3 +332,14 @@ Happy Hour da firma.
 ES6 Javascript: The Complete Developer's Guide 📹
 
 Curso de ES6 - Willian Justen 📹
+
+## 19/07/2017
+Futebol da firma. \o/
+
+[Dev: JS - Todo dia uma hype diferente](https://medium.com/tableless/dev-js-todo-dia-uma-hype-diferente-e2fd81b04cde)
+
+## 20/07/2017
+Ajustes site do guideline da A2ad
+
+## 21/07/2017
+[Dev: Framework, eu não sei se escolho você](https://medium.com/tableless/dev-framework-eu-n%C3%A3o-sei-se-escolho-voc%C3%AA-e442b1beafb)
