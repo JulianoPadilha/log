@@ -345,3 +345,18 @@ Ajustes site do guideline da A2ad
 [Dev: Framework, eu não sei se escolho você](https://medium.com/tableless/dev-framework-eu-n%C3%A3o-sei-se-escolho-voc%C3%AA-e442b1beafb)
 
 Aula de Objeto e Funções do JavaScript com o Rodrigo Branas 📹
+
+## 22/07/2017
+[Meu processo para a Toptal](https://willianjusten.com.br/meu-processo-para-a-toptal/)
+
+[Does reordering content affect accessibility?](https://www.youtube.com/watch?v=8MAvH6vYbDo) 📹
+
+[Intro to ARIA -- A11ycasts #13](https://www.youtube.com/watch?v=g9Qff0b-lHk) 📹
+
+[States and Properties in ARIA -- A11ycasts #14](https://www.youtube.com/watch?v=88tfx3jLV_M) 📹
+
+[Jonathan Sampson - ES6, o que tem de bacana? - BrazilJS 2015](https://www.youtube.com/watch?v=VHRdSnJbNLg&index=30&list=WL) 📹
+
+Ajustes site do guideline da A2ad
+
+Site do A2 SEO
