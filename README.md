@@ -360,3 +360,9 @@ Aula de Objeto e Funções do JavaScript com o Rodrigo Branas 📹
 Ajustes site do guideline da A2ad
 
 Site do A2 SEO
+
+## 23/07/2017
+Atualizações no Snack-WP (framework front-end da A2ad)
+
+## 24/07/2017
+[O que muda com a nova reforma trabalhista para desenvolvedores](https://deploy.codenation.com.br/o-que-muda-com-a-nova-reforma-trabalhista-para-desenvolvedores-6107e87f6db2)
