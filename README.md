@@ -366,3 +366,15 @@ Atualizações no Snack-WP (framework front-end da A2ad)
 
 ## 24/07/2017
 [O que muda com a nova reforma trabalhista para desenvolvedores](https://deploy.codenation.com.br/o-que-muda-com-a-nova-reforma-trabalhista-para-desenvolvedores-6107e87f6db2)
+
+## 25/07/2017
+Nada :/
+
+## 26/07/2017
+Futebol com o pessoal da A2ad
+
+## 27/07/2017
+Meetup FrontendSP | Carreira | Frameworks | Browsers
+
+## 28/07/2017
+[JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
