@@ -374,7 +374,19 @@ Nada :/
 Futebol com o pessoal da A2ad
 
 ## 27/07/2017
-Meetup FrontendSP | Carreira | Frameworks | Browsers
+Meetup FrontendSP - Viva Real | Carreira | Frameworks | Browsers
 
 ## 28/07/2017
 [JavaScript: What the heck is an Immediately-Invoked Function Expression?](https://codeburst.io/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18)
+
+## 29/07/2017
+Rolê com o Conor.
+
+## 30/07/2017
+[How to deal with technical debt and save your sanity](https://medium.freecodecamp.org/tame-your-tech-debt-by-refactoring-more-often-fcc34dd24a33)
+
+[E se o Vue.js fosse descontinuado?](https://blog.codecasts.com.br/e-se-o-vue-js-fosse-descontinuado-6ba56eb5a751)
+
+[Nem só de Front-End Week SP vive o homem!](https://medium.com/@afonsopacifer/nem-s%C3%B3-de-front-end-week-sp-vive-o-homem-9a1cddc2170a)
+
+Curso de Front-end na Vida Real - Afonso Pacifer 📹
