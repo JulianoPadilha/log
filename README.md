@@ -390,3 +390,7 @@ Rolê com o Conor.
 [Nem só de Front-End Week SP vive o homem!](https://medium.com/@afonsopacifer/nem-s%C3%B3-de-front-end-week-sp-vive-o-homem-9a1cddc2170a)
 
 Curso de Front-end na Vida Real - Afonso Pacifer 📹
+
+## 31/07/2017
+
+ES6 Javascript: The Complete Developer's Guide 📹
