@@ -396,6 +396,14 @@ Curso de Front-end na Vida Real - Afonso Pacifer 📹
 ES6 Javascript: The Complete Developer's Guide 📹
 
 ## 01/08/2017
-
 ES6 Javascript: The Complete Developer's Guide 📹
+
+Modern React with Redux 📹
+
+## 02/08/2017
+Modern React with Redux 📹
+
+JavaScript Design Patterns 📹
+
+## 03/08/2017
 Modern React with Redux 📹
