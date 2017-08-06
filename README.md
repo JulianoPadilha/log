@@ -407,3 +407,11 @@ JavaScript Design Patterns 📹
 
 ## 03/08/2017
 Modern React with Redux 📹
+
+## 04/08/2017
+[Jaydson Gomes - Como ser um bom dev front-end em 2017 - Vale do Carbono Conf 2017](https://www.youtube.com/watch?v=LBxHq3IG4F4) 📹
+
+## 05/08/2017
+Modern React with Redux 📹
+
+[Criando Reading Progress com CSS Variables](https://willianjusten.com.br/criando-reading-progress-com-css-variables/)
