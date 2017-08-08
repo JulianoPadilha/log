@@ -415,3 +415,9 @@ Modern React with Redux 📹
 Modern React with Redux 📹
 
 [Criando Reading Progress com CSS Variables](https://willianjusten.com.br/criando-reading-progress-com-css-variables/)
+
+## 06/08/2017
+Modern React with Redux 📹
+
+## 07/08/2017
+Desenvolvimento do A2Lego
