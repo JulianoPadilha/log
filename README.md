@@ -446,3 +446,5 @@ Curso Front-end na vida real 📹
 Meu aniversário. \o/
 
 Configurando Macbook para rodar os projetos da A2 (Apache, Virtual Hosts)
+
+[How to build your personal brand as a new developer](https://medium.freecodecamp.org/building-your-personal-brand-as-a-new-web-developer-f6d4150fd217)
