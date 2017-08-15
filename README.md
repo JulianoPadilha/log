@@ -421,3 +421,28 @@ Modern React with Redux 📹
 
 ## 07/08/2017
 Desenvolvimento do A2Lego
+
+## 08/08/2017
+Nada
+
+## 09/08/2017
+[SEO vs. React: Web Crawlers are Smarter Than You Think](https://medium.freecodecamp.org/seo-vs-react-is-it-neccessary-to-render-react-pages-in-the-backend-74ce5015c0c9)
+
+## 10/08/2017
+[Mastering Chrome Developer Tools: Next Level Front-End Development Techniques](https://medium.freecodecamp.org/mastering-chrome-developer-tools-next-level-front-end-development-techniques-3ac0b6fe8a3)
+
+## 11/08/2017
+Curso Front-end na vida real 📹
+
+## 12/08/2017
+Curso Front-end na vida real 📹
+
+[Lambda3 Podcast 34 – Dia a dia de dev na Lambda3](https://www.lambda3.com.br/2017/03/podcast-34-dia-a-dia-de-dev-na-lambda3/)
+
+## 13/08/2017
+Curso Front-end na vida real 📹
+
+## 14/08/2017
+Meu aniversário. \o/
+
+Configurando Macbook para rodar os projetos da A2 (Apache, Virtual Hosts)
