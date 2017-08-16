@@ -448,3 +448,8 @@ Meu aniversário. \o/
 Configurando Macbook para rodar os projetos da A2 (Apache, Virtual Hosts)
 
 [How to build your personal brand as a new developer](https://medium.freecodecamp.org/building-your-personal-brand-as-a-new-web-developer-f6d4150fd217)
+
+## 15/08/2017
+[O que eu fiz para trabalhar fora?](https://medium.com/ux-na-gringa/o-que-eu-fiz-para-trabalhar-fora-40c5bd03bd9a)
+
+[Criando componentes CSS com o padrão BEM](http://blog.alura.com.br/criando-componentes-css-com-padrao-bem/)
