@@ -453,3 +453,5 @@ Configurando Macbook para rodar os projetos da A2 (Apache, Virtual Hosts)
 [O que eu fiz para trabalhar fora?](https://medium.com/ux-na-gringa/o-que-eu-fiz-para-trabalhar-fora-40c5bd03bd9a)
 
 [Criando componentes CSS com o padrão BEM](http://blog.alura.com.br/criando-componentes-css-com-padrao-bem/)
+
+Atualizações no Guideline da A2ad.
