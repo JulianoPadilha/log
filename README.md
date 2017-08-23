@@ -470,3 +470,5 @@ Curso Front-end na vida real 📹
 ## 19/08/2017
 Curso Front-end na vida real 📹
 
+## 22/08/2017
+JavaScript: The Definitive Guide. pág 192 - pág 199
