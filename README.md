@@ -470,5 +470,17 @@ Curso Front-end na vida real 📹
 ## 19/08/2017
 Curso Front-end na vida real 📹
 
+## 20/08/2017
+Nada. :/
+
+## 21/08/2017
+[How to control bootstrap’s css](https://medium.com/@supermdguy/how-to-control-bootstraps-css-394f9928a499)
+
+[Dating is dead](https://medium.com/@angrytherapist/dating-is-dead-90d5e11e4365)
+
+[Organizando as Finanças | Simplifica #8](https://papodehomem.com.br/organizando-as-financas-or-simplifica-8/)
+
+[Como organizar suas finanças, passo a passo](https://papodehomem.com.br/como-organizar-financas-passo-a-passo/)
+
 ## 22/08/2017
 JavaScript: The Definitive Guide. pág 192 - pág 199
