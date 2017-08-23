@@ -455,3 +455,18 @@ Configurando Macbook para rodar os projetos da A2 (Apache, Virtual Hosts)
 [Criando componentes CSS com o padrão BEM](http://blog.alura.com.br/criando-componentes-css-com-padrao-bem/)
 
 Atualizações no Guideline da A2ad.
+
+## 16/08/2017
+Nada de diferente. :/
+
+## 17/08/2017
+Curso Front-end na vida real 📹
+
+## 18/08/2017
+[Designing better CSS with a single step](https://hackernoon.com/designing-better-css-with-a-single-step-e28eaeb367dc)
+
+Curso Front-end na vida real 📹
+
+## 19/08/2017
+Curso Front-end na vida real 📹
+
