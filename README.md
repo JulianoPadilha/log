@@ -484,3 +484,18 @@ Nada. :/
 
 ## 22/08/2017
 JavaScript: The Definitive Guide. pág 192 - pág 199
+
+## 23/08/2017
+[A Jornada do Desenvolvedor](https://deploy.codenation.com.br/a-jornada-do-desenvolvedor-4f660437264d)
+
+## 24/08/2017
+Viagem para Porto Alegre para participar da BrazilJS :D
+
+## 25/08/2017
+BrazilJS \o/
+
+## 26/08/2017
+BrazilJS \o/
+
+## 27/08/2017
+Voltando para SP pós BrazilJS
