@@ -499,3 +499,11 @@ BrazilJS \o/
 
 ## 27/08/2017
 Voltando para SP pós BrazilJS
+
+## 28/08/2017
+[10 JavaScript concepts you need to know for interviews](https://codeburst.io/10-javascript-concepts-you-need-to-know-for-interviews-136df65ecce)
+
+[Use sempre media queries baseadas no conteúdo da sua página](http://sergiolopes.org/media-queries-conteudo/)
+
+## 29/08/2017
+Atualizações no meu site pessoal
