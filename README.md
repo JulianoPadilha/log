@@ -507,3 +507,8 @@ Voltando para SP pós BrazilJS
 
 ## 29/08/2017
 Atualizações no meu site pessoal
+
+## 30/08/2017
+Atualizações no meu site pessoal
+
+Atualizações no meu blog pessoal
