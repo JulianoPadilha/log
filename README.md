@@ -512,3 +512,16 @@ Atualizações no meu site pessoal
 Atualizações no meu site pessoal
 
 Atualizações no meu blog pessoal
+
+[Candidates for Front end position](https://medium.com/@amitsharma14393/tips-for-front-end-engineer-interview-924478d03a73)
+
+## 31/08/2017
+[I open sourced 3 modules from Airbnb](https://medium.com/dailyjs/i-open-sourced-3-modules-from-airbnb-614bc5a2a51d)
+
+Meetup | FrontendSP | Elm | Go Horser | Posicionamento com CSS
+
+## 01/09/2017
+A2 Pocket sobre posicionamento com CSS
+
+## 02/09/2017
+PHP Community Summit by Locaweb
