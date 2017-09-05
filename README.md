@@ -525,3 +525,9 @@ A2 Pocket sobre posicionamento com CSS
 
 ## 02/09/2017
 PHP Community Summit by Locaweb
+
+## 03/09/2017
+Nada. :P
+
+## 04/09/2017
+JavaScript: The Definitive Guide. pág 199 - pág 208
