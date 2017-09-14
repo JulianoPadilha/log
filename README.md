@@ -531,3 +531,19 @@ Nada. :P
 
 ## 04/09/2017
 JavaScript: The Definitive Guide. pág 199 - pág 208
+
+## 06/09/2017
+[I wanted real time GitHub push notifications. So I built a Chrome extension](https://medium.freecodecamp.org/i-wanted-real-time-github-push-notifications-so-i-built-a-chrome-extension-7e6be0611e4)
+
+## 11/09/2017
+[An Instructional Strategy for Learning Coding Concepts](https://codeburst.io/coding-instructional-strategy-ea5e5cb3ca0c)
+
+[A comoditização do desenvolvimento web](https://medium.com/tableless/a-comoditiza%C3%A7%C3%A3o-do-desenvolvimento-web-8c82686013f8)
+
+Modern React with Redux 📹
+
+## 12/09/2017
+
+Curso de ES6
+
+Vídeos sobre Firebase
