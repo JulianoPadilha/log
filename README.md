@@ -550,3 +550,5 @@ Vídeos sobre Firebase
 
 ## 20/09/2017
 [Como foi trabalhar no meu primeiro produto e a sensação de entregar o MVP](https://medium.com/cubo-digital/como-foi-trabalhar-no-meu-primeiro-produto-e-a-sensa%C3%A7%C3%A3o-de-entregar-o-mvp-a05a3e550358)
+
+Curso de ES6
