@@ -552,3 +552,11 @@ Vídeos sobre Firebase
 [Como foi trabalhar no meu primeiro produto e a sensação de entregar o MVP](https://medium.com/cubo-digital/como-foi-trabalhar-no-meu-primeiro-produto-e-a-sensa%C3%A7%C3%A3o-de-entregar-o-mvp-a05a3e550358)
 
 Curso de ES6
+
+## 03/10/2017
+
+Curso de React básico da Codeacademy
+
+## 04/10/2017
+
+[PWA (Progressive Web Apps) e o mínimo que você precisa saber a respeito](https://imasters.com.br/desenvolvimento/pwa-progressive-web-apps-e-o-minimo-que-voce-precisa-saber-respeito/?trace=1519021197&source=admin)
